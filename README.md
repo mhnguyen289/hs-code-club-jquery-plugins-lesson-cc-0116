@@ -100,7 +100,7 @@ Next, we need to link the Fart Scroll Source code. Copy the HTML below and paste
 <script src="http://code.onion.com/fartscroll.js"></script>
 ```
 
-Last, we need to modify `js/script.js`. Copy the jQuery below, and paste it in `js/script.js` below the comment `//code your solution here!`:
+Last, we need to modify `js/script.js`. Copy the jQuery below, and paste it in `js/script.js` below the comment `//try Fart Scroll here`:
 
 ```js
 fartscroll();

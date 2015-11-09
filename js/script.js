@@ -1,8 +1,9 @@
  $('document').ready(function(){
 
 
-  //code your solution here!
-  $.fool('flash');
+  //try Fart Scroll here
 
   //try fool.js here
+
+
 });
